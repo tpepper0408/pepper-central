@@ -66,10 +66,10 @@ Once the maintainers get involved, they will follow a documented series of steps
 You may get in touch with the maintainer team through any of the following methods:
 
   * Through email:
-    * [me@daviddarnes.com](mailto:me@daviddarnes.com) (David Darnes)
+    * [tim.pepper04@gmail.com](mailto:tim.pepper04@gmail.com) (Tim Pepper)
 
   * Through Twitter:
-    * [@DavidDarnes](https://twitter.com/DavidDarnes) (David Darnes)
+    * [@DrPepperChan](https://twitter.com/DrPepperChan) (Tim Pepper)
 
 ### Further Enforcement
 
