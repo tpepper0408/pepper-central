@@ -4,7 +4,7 @@ layout: null
 sitemap: false
 ---
 {
-  "lang": "{{ site.lang | default: "en-US" }}",
+  "lang": "{{ site.lang | default: "en-GB" }}",
   "name": "{{ site.title }}",
   "short_name": "{{ site.short_name | default: site.title | replace: ' ', '' }}",
   "theme_color": "{{ site.manifest.theme_color | default: '#24292e' }}",
