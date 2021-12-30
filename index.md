@@ -2,8 +2,7 @@
 title: About Silver Adventure
 feature_text: |
   ## Silver Adventure
-  Silver Adventure is a journey into philosophy, diversity, inclusion and software engineering.
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://picsum.photos/1300/400?image=135"
 excerpt: "Silver Adventure is the personal blog of Tim Pepper, it's a journey into philosophy, diversity, inclusion and software engineering."
 ---
 
