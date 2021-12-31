@@ -1,8 +1,8 @@
 ---
-title: Description of an Alembic
+title: A Velvet Tech Rage
 categories:
-  - General
-  - External sources
+  - Diversity in Tech
+  - LGBTQ+
 feature_image: "https://picsum.photos/2560/600"
 ---
 
