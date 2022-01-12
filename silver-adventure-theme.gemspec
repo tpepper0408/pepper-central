@@ -1,14 +1,14 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-    spec.name          = "silver-adventure-theme"
+    spec.name          = "pepper-central-theme"
     spec.version       = "4.1.0"
     spec.authors       = ["Tim Pepper"]
     spec.email         = ["tim.pepper04@gmail.com"]
   
     spec.summary       = %q{A blog site for me to ramble in general.}
     spec.description   = "A blog site for me to ramble in general."
-    spec.homepage      = "https://tpepper0408.github.io/silver-adventure"
+    spec.homepage      = "https://tpepper0408.github.io/pepper-central"
     spec.license       = "MIT"
   
     spec.metadata["plugin_type"] = "theme"

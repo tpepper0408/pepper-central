@@ -19,7 +19,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .jekyll-cache
-  - silver-adventure-theme.gemspec
+  - pepper-central-theme.gemspec
 
 # 2. Installed Gems
 plugins:
@@ -63,7 +63,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "All posts are listed here, for categories go to [Categories](/silver-adventure/categories/)." # The post list page content
+    description: "All posts are listed here, for categories go to [Categories](/pepper-central/categories/)." # The post list page content
     feature_image: "https://picsum.photos/2560/600?image=389"
 
 # 6. Jekyll collections settings
@@ -86,12 +86,12 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Silver Adventure" # Site name or title, also used in jekyll-seo-tag
+title: "Pepper Central" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Silver Adventure is a journey into philosophy, diversity, inclusion and software engineering." # Site description and default description, also used in jekyll-seo-tag
+description: "Pepper Central is a journey into philosophy, diversity, inclusion and software engineering." # Site description and default description, also used in jekyll-seo-tag
 url: "https://tpepper0408.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "/silver-adventure"
-repo: "https://github.com/tpepper0408/silver-adventure/"
+baseurl: "/pepper-central"
+repo: "https://github.com/tpepper0408/pepper-central/"
 email: "tim.pepper04@gmail.com"
 destination: "./docs"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account

@@ -21,11 +21,11 @@ aside: true
 
 <small>A small element</small>
 
-[A link](https://tpepper0408.github.io/silver-adventure/ "A link")
+[A link](https://tpepper0408.github.io/pepper-central/ "A link")
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
-Duis aute irure dolor in [A link](https://tpepper0408.github.io/silver-adventure/ "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
+Duis aute irure dolor in [A link](https://tpepper0408.github.io/pepper-central/ "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
 
 - An item
 - An item
@@ -101,13 +101,13 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML);
 
 ### Button include
 
-{% include button.html text="A button" link="https://tpepper0408.github.io/silver-adventure/" %}
+{% include button.html text="A button" link="https://tpepper0408.github.io/pepper-central/" %}
 
 {% include button.html text="A button with icon" link="https://twitter.com/DrPepperChan" icon="twitter" %}
 
 ```html
 {% raw %}{% include button.html text="A button"
-link="https://tpepper0408.github.io/silver-adventure/" %} {% include button.html
+link="https://tpepper0408.github.io/pepper-central/" %} {% include button.html
 text="A button with icon" link="https://twitter.com/DrPepperChan" icon="twitter"
 %}{% endraw %}
 ```
