@@ -1,5 +1,5 @@
 ---
-title: The Authority Gap
+title: "TIDbit: The Authority Gap"
 categories:
   - Diversity in Tech
   - TIDbit
