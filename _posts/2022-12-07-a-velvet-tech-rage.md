@@ -3,7 +3,7 @@ title: A Velvet Tech Rage
 categories:
   - Diversity in Tech
   - LGBTQ+
-feature_image: "https://picsum.photos/2560/600"
+feature_image: "https://picsum.photos/2560/600?image=505"
 ---
 
 This is a repost of a blog I wrote for a work blog platform back in June 2020 for Pride Month. It came about as a *coming out* at work and a way for me to start writing about my experiences as a gay man in tech. I've not edited much here so it's pretty raw - just removed some specific reference to the company to make it more general. Enjoy!
